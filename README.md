@@ -247,14 +247,14 @@ void cleanup_resources() {
 
 ## OUTPUT
 $ ./sem.o 
+<img width="718" height="777" alt="1" src="https://github.com/user-attachments/assets/720a7b29-8abf-4ab4-bb7d-c1bba6c6a6a3" />
 
-<img width="1185" height="721" alt="Screenshot from 2025-10-27 09-36-50" src="https://github.com/user-attachments/assets/03d4986d-7bcb-45b4-a472-4f265860b266" />
 
 
 
 $ ipcs
+<img width="684" height="265" alt="2" src="https://github.com/user-attachments/assets/bbfbed9e-8345-43f8-ad4c-a9ae0acc4cfc" />
 
-<img width="1185" height="319" alt="Screenshot from 2025-10-27 09-38-01" src="https://github.com/user-attachments/assets/de8c4c2f-1bee-44ed-8c3c-d45a643a1981" />
 
 
 
