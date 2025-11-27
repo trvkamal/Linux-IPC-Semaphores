@@ -255,7 +255,6 @@ $ ./sem.o
 
 $ ipcs
 
-<img width="1185" height="319" alt="Screenshot from 2025-10-27 09-38-01" src="https://github.com/user-attachments/assets/de8c4c2f-1bee-44ed-8c3c-d45a643a1981" />
 
 
 
