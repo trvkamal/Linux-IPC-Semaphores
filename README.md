@@ -20,8 +20,8 @@ Execute the C Program for the desired output.
 
 # PROGRAM:
 ```
-Developed By : GOKUL M
-Reg No : 212222230037
+Developed By : kamalesh v
+Reg No : 212222240042
 ```
 
 ## Write a C program that implements a producer-consumer system with two processes using Semaphores.
@@ -248,13 +248,14 @@ void cleanup_resources() {
 ## OUTPUT
 $ ./sem.o 
 
-<img width="718" height="777" alt="1" src="https://github.com/user-attachments/assets/58c1ee85-dd6c-42b6-814f-a81f2574cc0c" />
+<img width="1185" height="721" alt="Screenshot from 2025-10-27 09-36-50" src="https://github.com/user-attachments/assets/03d4986d-7bcb-45b4-a472-4f265860b266" />
 
 
 
 $ ipcs
 
-<img width="684" height="265" alt="2" src="https://github.com/user-attachments/assets/cfae465a-f8b6-4acf-80d6-e3488ad53acb" />
+<img width="1185" height="319" alt="Screenshot from 2025-10-27 09-38-01" src="https://github.com/user-attachments/assets/de8c4c2f-1bee-44ed-8c3c-d45a643a1981" />
+
 
 
 
